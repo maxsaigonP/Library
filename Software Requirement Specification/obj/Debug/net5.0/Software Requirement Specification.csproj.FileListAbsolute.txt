@@ -1,0 +1,354 @@
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\appsettings.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.exe
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.deps.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.runtimeconfig.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.runtimeconfig.dev.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ref\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.Views.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.Views.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.csproj.AssemblyReference.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.AssemblyInfoInputs.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.AssemblyInfo.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.csproj.CoreCompileInputs.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorAssemblyInfo.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\scopedcss\bundle\Software Requirement Specification.styles.css
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\staticwebassets\Software Requirement Specification.StaticWebAssets.Manifest.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.TagHelpers.input.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.TagHelpers.output.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorCoreGenerate.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorTargetAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorTargetAssemblyInfo.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.Views.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\ref\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.genruntimeconfig.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.csproj.CopyComplete
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\Software Requirement Specification\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\appsettings.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.exe
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.deps.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.runtimeconfig.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.runtimeconfig.dev.json
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ref\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.Views.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Software Requirement Specification.Views.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.csproj.AssemblyReference.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.AssemblyInfoInputs.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.AssemblyInfo.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.csproj.CoreCompileInputs.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorAssemblyInfo.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\scopedcss\bundle\Software Requirement Specification.styles.css
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\staticwebassets\Software Requirement Specification.StaticWebAssets.Manifest.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.TagHelpers.input.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.TagHelpers.output.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorCoreGenerate.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\LopHocs\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\NguoiDungs\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\PhanQuyens\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TaiKhoans\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\TruongHocs\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Create.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Delete.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Details.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Edit.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\VaiTroes\Index.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorTargetAssemblyInfo.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.RazorTargetAssemblyInfo.cs
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.Views.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.csproj.CopyComplete
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\ref\Software Requirement Specification.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.pdb
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\obj\Debug\net5.0\Software Requirement Specification.genruntimeconfig.cache
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Base32.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\OtpSharp.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\OtpSharp.Core.dll
+C:\Users\BAO PHUC- PC\OneDrive\Desktop\DA\E-Library\Software Requirement Specification\bin\Debug\net5.0\Wiry.Base32.dll
