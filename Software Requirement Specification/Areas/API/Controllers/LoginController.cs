@@ -91,6 +91,7 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
         }
 
         [HttpGet]
+        [Route("/dangnhap")]
         public async Task<string> DangNhap(string username,string password)
         {
             var tk= await _context.TaiKhoan.Where(t => t.TenNguoiDung == username && t.MatKhau == password).ToListAsync();
@@ -106,6 +107,7 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
         }
 
         [HttpGet]
+        [Route("/dangxuat")]
         public async Task<string> DangXuat()
         {
             HttpContext.Session.Clear();
@@ -157,7 +159,7 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
                 HttpContext.Session.Remove("OTP");
                 return "Xac thuc thanh cong"; //chuyen sang doi mat khau
             }
-            //HttpContext.Session.Remove("OTP");
+     
             string a= await TaoMaXacThuc(HttpContext.Session.GetString("Gmail"),HttpContext.Session.GetString("Sdt"));
             
             return "Da gui lai ma xac thuc";
