@@ -8,7 +8,7 @@ namespace Software_Requirement_Specification.Models
     public class TaiLieu
     {
         public int Id { get; set; }
-        public string TenTaiLieu { get; set; }
+
         public int MonHocId { get; set; }
         public MonHoc MonHocI { get; set; }
         public int NguoiDungId { get; set; }

@@ -44,45 +44,26 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
         //
     
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<TaiLieu>>> LocTaiLieu(int tt, int gv, int mh)
+        public async Task<ActionResult<IEnumerable<TaiLieu>>> LocTaiLieu(int ?tt, int gv, int mh)
         {
            
-            //if (gv == 0)
-            //{
-            //    gv = 0;
-            //}
-            //if (mh == 0)
-            //{
-            //    mh = 0;
-            //}
-
-            var taiLieu = await _context.TaiLieu.ToListAsync();
-            var result = await _context.TaiLieu.Where(t => t.TinhTrang == (tt !=0) ? true : false).Where(t => t.NguoiDungId == gv).Where(t => t.MonHocId == mh).ToListAsync();
-            if (gv!=0)
+            if(tt==null)
             {
-                result = await _context.TaiLieu.Where(t => t.TinhTrang == (tt !=0) ? true : false).Where(t => t.NguoiDungId == gv).ToListAsync();
+                tt = 1;
+            }
+
+            var result = await _context.TaiLieu.ToListAsync();
+            if (gv!=0&&mh!=0)
+            {
+                result = await _context.TaiLieu.Where(t => t.TinhTrang == (tt !=0) ? true : false).Where(t => t.NguoiDungId == gv&& t.MonHocId == mh).ToListAsync();
             }else
             if(mh!=0)
             {
                 result = await _context.TaiLieu.Where(t => t.TinhTrang == (tt != 0) ? true : false).Where(t => t.MonHocId == mh).ToListAsync();
-            }
-            
-            if(result.Count==0)
+            }else
+            if (gv != 0)
             {
-                if (taiLieu == null)
-                {
-                    return NotFound();
-                }
-
-                return taiLieu;
-            }
-          
-
-
-
-            if (taiLieu == null)
-            {
-                return NotFound();
+                result = await _context.TaiLieu.Where(t => t.TinhTrang == (tt != 0) ? true : false).Where(t => t.NguoiDungId == gv).ToListAsync();
             }
 
             return result;

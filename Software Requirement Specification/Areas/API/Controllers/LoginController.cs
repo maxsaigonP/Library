@@ -30,7 +30,6 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
             string LowerCase = "qwertyuiopasdfghjklzxcvbnm";
             string Digits = "1234567890";
             string allCharacters = UpperCase + LowerCase + Digits;
-            //Random will give random charactors for given length  
             Random r = new Random();
             String password = "";
             for (int i = 0; i < length; i++)
@@ -50,7 +49,7 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
         }
 
         [HttpGet]
-        public  async Task<string> XacThuc(string _to,string sdt)
+        public  async Task<string> TaoMaXacThuc(string _to,string sdt)
         {
             var email = await _context.TaiKhoan.Where(t => t.Gmail==_to&&t.SoDienThoai==sdt).ToListAsync();
             if (email.Count > 0)
@@ -116,6 +115,10 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
         [HttpGet]
         public async Task<string> DoiMatKhau(string pass, string rePass)
         {
+            if(HttpContext.Session.GetInt32("XacThuc")!=1)
+            {
+                return "Chua xac thuc"; //chuyen sang xac thuc
+            }
             if(pass==rePass)
             {
                 var tk = await _context.TaiKhoan.Where(t => t.Gmail == HttpContext.Session.GetString("Gmail")).FirstOrDefaultAsync();
@@ -130,6 +133,8 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
                 try
                 {
                    await _context.SaveChangesAsync();
+                    HttpContext.Session.Remove("XacThuc");
+                  
                     return "Da luu mat khau moi";
                 }catch(Exception e)
                 {
@@ -142,16 +147,19 @@ namespace Software_Requirement_Specification.Areas.API.Controllers
         [HttpGet]
         public async Task<string> XacThucOTP(string otp)
         {
-            if(otp==HttpContext.Session.GetString("OTP"))
-            {
-                return "Xac thuc thanh cong"; //chuyen sang doi mat khau
-            }
-            if(HttpContext.Session.GetString("OTP")==null)
+            if (HttpContext.Session.GetString("OTP") == null)
             {
                 return "Dang nhap lai";
+            }else
+            if (otp==HttpContext.Session.GetString("OTP"))
+            {
+                HttpContext.Session.SetInt32("XacThuc", 1);
+                HttpContext.Session.Remove("OTP");
+                return "Xac thuc thanh cong"; //chuyen sang doi mat khau
             }
-         string a= XacThuc(HttpContext.Session.GetString("Gmail"),HttpContext.Session.GetString("Sdt")).ToString();
-
+            //HttpContext.Session.Remove("OTP");
+            string a= await TaoMaXacThuc(HttpContext.Session.GetString("Gmail"),HttpContext.Session.GetString("Sdt"));
+            
             return "Da gui lai ma xac thuc";
         }
 

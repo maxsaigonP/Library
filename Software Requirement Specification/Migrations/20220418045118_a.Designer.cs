@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Software_Requirement_Specification.Data;
 
 namespace Software_Requirement_Specification.Migrations
 {
     [DbContext(typeof(Software_Requirement_SpecificationContext))]
-    partial class Software_Requirement_SpecificationContextModelSnapshot : ModelSnapshot
+    [Migration("20220418045118_a")]
+    partial class a
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -246,6 +248,9 @@ namespace Software_Requirement_Specification.Migrations
 
                     b.Property<int>("NguoiDungId")
                         .HasColumnType("int");
+
+                    b.Property<string>("TenTaiLieu")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("TinhTrang")
                         .HasColumnType("bit");
